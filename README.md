@@ -8,4 +8,4 @@
 
 TODO: 写一版针对本仓库环境的 Quick Start Guide
 
-大致内容包括 anaconda + poetry + VSCode(jupyter插件+gitmoji+git-commit-lint)/Pycharm + wakatime + webhook + 企微Bot + webhookJson重构转发 
+大致内容包括 anaconda + poetry + VSCode(jupyter插件+gitmoji+git-commit-lint+MPE/MarkdownAllInOne)/Pycharm + wakatime + webhook + 企微Bot + webhookJson重构转发 
