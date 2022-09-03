@@ -5,7 +5,7 @@ description = ""
 authors = ["233Official <ayusummer233@qq.com>"]
 
 [tool.poetry.dependencies]
-python = "3.10.4"
+python = "^3.8"
 jupyter = "1.0.0"
 jupyterlab = "3.4.5"
 
