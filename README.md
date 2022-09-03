@@ -52,7 +52,7 @@ TODO: 写一版针对本仓库环境的 Quick Start Guide
         # 修改代码后提交
         git add .
         git commit -m "feat: dayXX"
-        # 发布分支(首次启用分支时执行此项)
+        # 发布分支(首次启用分支时执行此项)(如果IDE有提示发布分支的话也可以直接点击发布)
         git push origin test
         # 推送到远程仓库(非首次启用分支时执行此项)
         git push
