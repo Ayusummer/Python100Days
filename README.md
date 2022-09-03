@@ -6,7 +6,9 @@
 
 ---
 
-TODO: 写一版针对本仓库环境的 Quick Start Guide
+# TODO
+- [x] 写一版针对本仓库环境的 Quick Start Guide
+
 
 
 # Quick Start Guide(Windows)
