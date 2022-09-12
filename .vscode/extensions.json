@@ -1,0 +1,18 @@
+{
+    "recommendations": [
+        "bierner.github-markdown-preview",
+        "youngjuning.juejin-me",
+        "bungcip.better-toml",
+        "ms-ceintl.vscode-language-pack-zh-hans",
+        "vsls-contrib.codetour",
+        "tombonnike.vscode-status-bar-format-toggle",
+        "mhutchie.git-graph",
+        "uvdream.git-commit-lint-vscode",
+        "seatonjiang.gitmoji-vscode",
+        "oderwat.indent-rainbow",
+        "ms-toolsai.jupyter",
+        "yzhang.markdown-all-in-one",
+        "ms-python.python",
+        "WakaTime.vscode-wakatime"
+    ]
+}

@@ -383,3 +383,8 @@ url = "http://example.com/simple"
 > url = "https://pypi.tuna.tsinghua.edu.cn/simple/"
 > default = true
 > ```
+
+---
+# VSCode 扩展建议
+
+clone 完项目之后打开 VSCode 的扩展界面, 输入 @recommended, 会根据项目中的 `.vscode/extensions.json` 文件推荐扩展
