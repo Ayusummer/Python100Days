@@ -1,0 +1,17 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "9.14",
+  "steps": [
+    {
+      "file": "week2_6_10/day6_function/06.函数和模块的使用.md",
+      "description": "可变参数\r\n可以使用 for i in args 的形式来获取值",
+      "line": 108
+    },
+    {
+      "file": "week2_6_10/day6_function/06.函数和模块的使用.md",
+      "description": "变量作用域以及推荐写法\r\n",
+      "line": 295
+    }
+  ],
+  "ref": "main"
+}
